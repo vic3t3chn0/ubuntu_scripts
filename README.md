@@ -1,3 +1,8 @@
+This script in this repsitory I made is based on the plasma phone from KDE for Nexus 5, it worked through my procedures in my Nexus 5. 
+So I am doing a wip under Sony.
+
+Thanks a lot KDE community driven.
+
 # pm-flashtool
 Tool for Flashing CM+PM as LXC Container
 
